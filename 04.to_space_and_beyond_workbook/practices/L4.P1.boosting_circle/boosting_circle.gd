@@ -16,14 +16,13 @@ func _process(delta: float) -> void:
 		direction = direction.normalized()
 
 	if Input.is_action_just_pressed("boost"):
-		# Replace the pass keyword with the code to change the max_speed, get the timer node, and start it.
-		pass
+		max_speed = boost_speed
+		get_node("Timer").start()
 
 	velocity = direction * max_speed
 	position += velocity * delta
 	if direction.length() > 0.0:
 		rotation = velocity.angle()
 
-
-func _on_timer_timeout() -> void:
-	pass
+func _on_timer_timeout():
+	max_speed = normal_speed
