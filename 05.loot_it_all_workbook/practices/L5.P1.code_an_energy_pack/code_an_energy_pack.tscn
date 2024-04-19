@@ -1,4 +1,4 @@
-[gd_scene load_steps=3 format=3 uid="uid://crwfn7fcvcdd5"]
+[gd_scene load_steps=3 format=3 uid="uid://8vo2q2p4nfem"]
 
 [ext_resource type="PackedScene" path="res://practices/L5.P1.code_an_energy_pack/ship_energy_pack.tscn" id="1_jrchu"]
 [ext_resource type="PackedScene" path="res://practices/L5.P1.code_an_energy_pack/energy_pack.tscn" id="3_1o63n"]

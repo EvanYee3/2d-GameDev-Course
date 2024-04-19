@@ -1,4 +1,4 @@
-[gd_scene load_steps=3 format=3 uid="uid://dqqe28072p8qv"]
+[gd_scene load_steps=3 format=3 uid="uid://sca2vvpsjowv"]
 
 [ext_resource type="PackedScene" uid="uid://buxlwji6o4tr7" path="res://practices/L2.P1.pop_the_ball/ball.tscn" id="1_nyxov"]
 [ext_resource type="PackedScene" path="res://practices/L2.P1.pop_the_ball/needle.tscn" id="3_w8ucv"]

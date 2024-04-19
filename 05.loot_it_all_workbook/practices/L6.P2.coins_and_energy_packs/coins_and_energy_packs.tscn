@@ -1,4 +1,4 @@
-[gd_scene load_steps=4 format=3 uid="uid://bwebp24wj2g33"]
+[gd_scene load_steps=4 format=3 uid="uid://e44hksr3ywer"]
 
 [ext_resource type="PackedScene" path="res://practices/L6.P2.coins_and_energy_packs/ship_coins_and_energy_packs.tscn" id="1_l7py2"]
 [ext_resource type="PackedScene" uid="uid://du8jadbvk406t" path="res://practices/L6.P2.coins_and_energy_packs/coin.tscn" id="3_v6eww"]
